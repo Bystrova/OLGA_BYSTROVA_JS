@@ -1,4 +1,4 @@
-//04-Function. Task 4//
+//05-Function. Task 4//
 var fibon = function(n) {
     var a = 1;
     var b = 1;

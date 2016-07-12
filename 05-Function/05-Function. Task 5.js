@@ -1,4 +1,4 @@
-//04-Function. Task 5/
+//05-Function. Task 5/
   var getLink = document.getElementsByTagName('a');
     for (var i = 0; i < getLink.length; i++){
         (function(localIndex){
